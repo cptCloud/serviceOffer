@@ -10,7 +10,7 @@ db.once('open', function() {
   // we're connected!
 });
 console.log("commmmmmit");
-console.log("commmmmmit");
+console.log("commfmmmit");
 
 
 const server = new GraphQLServer({
